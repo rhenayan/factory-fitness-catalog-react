@@ -4,7 +4,7 @@
 This modern app gives workout enthusiasts access to over 1300 exercises with individual exercise data and animated demonstrations. 
 ## Tech Stack
 
-**Client:** React, Material UI, React Router, 
+**Client:** React, Material UI, React Router, RapidAPI
 
 
 
