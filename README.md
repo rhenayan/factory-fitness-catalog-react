@@ -31,3 +31,8 @@ Building this awesome project, I learned:
 - Creating a beautiful user interface using the Material UI 
 - Fetching data using two separate APIs
 - Navigating from one page to another using React Router
+
+
+## Screenshot
+
+<img src="https://i.ibb.co/1Rs77tM/Screenshot-2022-10-02-at-21-22-27-Factory-Fitness.png" alt="Screenshot-2022-10-02-at-21-22-27-Factory-Fitness" border="0">
