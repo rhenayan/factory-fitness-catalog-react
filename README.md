@@ -32,7 +32,14 @@ Building this awesome project, I learned:
 - Fetching data using two separate APIs
 - Navigating from one page to another using React Router
 
+## Demo
+
+Demo not available because API calls have reached the limit for the month (Used RapidAPI) 
 
 ## Screenshot
 
-<img src="https://i.ibb.co/1Rs77tM/Screenshot-2022-10-02-at-21-22-27-Factory-Fitness.png" alt="Screenshot-2022-10-02-at-21-22-27-Factory-Fitness" border="0">
+- Home Page
+<img src="https://i.ibb.co/58BfLsc/Screenshot-2022-10-02-at-21-22-27-Factory-Fitness.png" alt="Screenshot-2022-10-02-at-21-22-27-Factory-Fitness" border="0">
+
+- Detail Page
+<img src="https://i.ibb.co/S5Fw0nB/Screenshot-2022-10-02-at-21-52-08-Factory-Fitness.png" alt="Screenshot-2022-10-02-at-21-52-08-Factory-Fitness" border="0">
